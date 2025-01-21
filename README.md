@@ -7,7 +7,6 @@ First,install dep:
 
 ```bash
 php composer install
-# and
 npm install
 ```
 
